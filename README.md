@@ -166,6 +166,7 @@ I see AI as a tool that helps accelerate development while maintaining responsib
 I'm always open to connecting with developers, engineering teams, and new opportunities.
 
 <p align="left"> <a href="https://linkedin.com/in/carlosmonsalveb"> <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Monsalve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/DevCarlosMonsalve"> <img src="https://img.shields.io/badge/GitHub-DevCarlosMonsalve-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:monsalvecarlos@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
 ---
 
 > Building scalable, maintainable software with a focus on clean architecture and real business value.
