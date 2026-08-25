@@ -1,26 +1,174 @@
-<h1 align="center">Hi 👋, I'm Carlos Monsalve</h1>
-<h3 align="center">A passionate fullstack developer from Venezuela</h3>
+# Hi, I'm Carlos Monsalve 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devcarlosmonsalve&label=Profile%20views&color=0e75b6&style=flat" alt="devcarlosmonsalve" /> </p>
+### Senior Full Stack Engineer | TypeScript · Next.js · NestJS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devcarlosmonsalve" alt="devcarlosmonsalve" /></a> </p>
+I'm a Senior Full Stack Engineer focused on building scalable, maintainable, and business-driven web applications.
 
-- 🔭 I’m currently working on [LPanel](https://github.com/DevCarlosMonsalve/LPanel)
+I have professional experience working across the full software development lifecycle, from software architecture and backend services to modern frontend applications, integrations, authentication, and database design.
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+My main focus is building reliable software using modern technologies, clean architecture principles, and pragmatic engineering practices.
 
-- 📫 How to reach me **monsalvecarlos@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlosmonsalveb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosmonsalveb" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devcarlosmonsalve&show_icons=true&locale=en&layout=compact" alt="devcarlosmonsalve" /></p>
-<br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devcarlosmonsalve&show_icons=true&locale=en" alt="devcarlosmonsalve" /></p>
-<br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devcarlosmonsalve&" alt="devcarlosmonsalve" /></p>
+* 💻 Senior Full Stack Engineer
+* ⚡ Specialized in TypeScript and modern web development
+* 🏗 Interested in scalable and maintainable software architecture
+* 🔌 Experience designing and developing REST APIs
+* 🗄 Experience working with PostgreSQL and MySQL
+* 🔐 Experience with authentication and authorization systems
+* 🤖 AI-Assisted Development enthusiast
+
+I enjoy transforming business requirements into well-structured, maintainable, and reliable software solutions.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
+
+### Database & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma\&logoColor=white)
+
+### Tools & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest\&logoColor=white)
+
+---
+
+## 🏗 Engineering Approach
+
+I believe good software should not only work — it should also be understandable, maintainable, and ready to evolve.
+
+Some of the practices and concepts I work with:
+
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* REST API Design
+* Repository Pattern
+* Service Layer
+* Mapper Pattern
+* Authentication & Authorization
+* JWT
+* OAuth2
+* Role-Based Access Control (RBAC)
+* Database Modeling
+* Input Validation
+* Automated Testing
+* Dockerized Development Environments
+
+---
+
+## 🚀 Featured Project
+
+### 🛒 MyMarketplace
+
+A full-stack marketplace application designed as a portfolio project to demonstrate modern software engineering practices and architecture.
+
+**Tech Stack**
+
+* Next.js
+* NestJS
+* TypeScript
+* PostgreSQL
+* Prisma ORM
+* Docker
+
+The project focuses on building a realistic application architecture rather than just a simple CRUD application.
+
+Planned areas include:
+
+* 🔐 Authentication and authorization
+* 👥 User roles and permissions
+* 🛍 Product and listing management
+* 🏪 Seller and customer workflows
+* 🔎 Product search and filtering
+* 📦 Order management
+* 🗄 Relational database design
+* 🔌 REST API development
+* 🐳 Dockerized development environment
+* 🧪 Testing
+* 🏗 Clean and maintainable architecture
+
+**Repository:** [MyMarketplace](https://github.com/YOUR_USERNAME/mymarketplace)
+
+> Currently under active development.
+
+---
+
+## 💼 Professional Background
+
+Throughout my career, I have worked on web applications and software solutions involving:
+
+* Full-stack web development
+* Administration and backoffice platforms
+* REST APIs and backend services
+* Authentication and authorization
+* Database design
+* Third-party integrations
+* Cloud services
+* Multi-tenant platforms
+* Digital wallets and loyalty solutions
+
+My experience includes working with both modern JavaScript/TypeScript ecosystems and backend technologies such as PHP and Laravel.
+
+---
+
+## 🤖 AI-Assisted Development
+
+I actively incorporate AI-assisted development tools into my engineering workflow.
+
+Tools I use include:
+
+* ChatGPT
+* GitHub Copilot
+* Cursor
+
+I leverage AI to support:
+
+* Software design
+* Architecture discussions
+* Code implementation
+* Refactoring
+* Code reviews
+* Test generation
+* Debugging
+* Documentation
+
+I see AI as a tool that helps accelerate development while maintaining responsibility for software architecture, code quality, security, and engineering decisions.
+
+---
+
+## 📫 Let's Connect
+
+I'm open to connecting with developers, engineering teams, and opportunities where I can contribute to building high-quality software.
+
+* 💼 LinkedIn: **YOUR_LINKEDIN_URL**
+* 💻 GitHub: **YOUR_GITHUB_URL**
+* 📧 Email: **YOUR_EMAIL**
+
+---
+
+> Building scalable, maintainable software with a focus on clean architecture and real business value.
