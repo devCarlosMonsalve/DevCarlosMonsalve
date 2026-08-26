@@ -83,9 +83,9 @@ Some of the practices and concepts I work with:
 
 ## 🚀 Featured Project
 
-### 🛒 MyMarketplace
+### 🛒 commerce-platform
 
-A full-stack marketplace application designed as a portfolio project to demonstrate modern software engineering practices and architecture.
+A full-stack commerce-platform application designed as a portfolio project to demonstrate modern software engineering practices and architecture.
 
 **Tech Stack**
 
@@ -112,7 +112,7 @@ Planned areas include:
 * 🧪 Testing
 * 🏗 Clean and maintainable architecture
 
-**Repository:** [MyMarketplace](https://github.com/YOUR_USERNAME/mymarketplace)
+**Repository:** [commerce-platform](https://github.com/devCarlosMonsalve/commerce-platform))
 
 > Currently under active development.
 
