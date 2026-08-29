@@ -205,12 +205,11 @@ The project also includes a deterministic supply review that identifies low-stoc
 
 ### Project Documentation
 
-The project is split into independent frontend and backend applications.
+The repository is organized as a monorepo with dedicated documentation at different levels:
 
-- 🖥️ [Frontend documentation](YOUR_FRONTEND_REPOSITORY_URL)
-- ⚙️ [Backend documentation](YOUR_BACKEND_REPOSITORY_URL)
-
-The detailed repository documentation covers architecture, modules, setup, API design, domain rules, testing, and AI integration.
+- 📘 [Project Overview](https://github.com/devCarlosMonsalve/commerce-platform) — Overall architecture, project scope, business context, and how the frontend and backend work together.
+- 🖥️ [Frontend Documentation](https://github.com/devCarlosMonsalve/commerce-platform/blob/main/frontend-mmp/README.md) — Frontend architecture, application structure, UI, internationalization, authentication flow, and testing.
+- ⚙️ [Backend Documentation](https://github.com/devCarlosMonsalve/commerce-platform/blob/main/backend-mmp/README.md) — Backend architecture, API, domain logic, multi-tenancy, database design, security, and AI integrations.
 
 ---
 
