@@ -83,39 +83,32 @@ Some of the practices and concepts I work with:
 
 ## 🚀 Featured Project
 
-### 🛒 commerce-platform
+### 🛒 [commerce-platform](https://github.com/devCarlosMonsalve/commerce-platform)
 
-A full-stack commerce-platform application designed as a portfolio project to demonstrate modern software engineering practices and architecture.
+A multi-tenant SaaS platform for centralized commerce operations, built as a full-stack portfolio project focused on pragmatic DDD, Clean Architecture, and secure operational workflows.
 
 **Tech Stack**
 
-* Next.js
-* NestJS
-* TypeScript
-* PostgreSQL
-* Prisma ORM
-* Docker
+- Next.js 16, React 19, TypeScript
+- NestJS 11, Prisma ORM, PostgreSQL
+- Material UI, Tailwind CSS, next-intl
+- Docker Compose
+- Jest and Playwright
+- Google Gemini and OpenAI LLM integrations
 
-The project focuses on building a realistic application architecture rather than just a simple CRUD application.
+**Highlights**
 
-Planned areas include:
+- 🔐 JWT authentication with httpOnly cookies
+- 🏢 Multi-tenant organization isolation and membership roles
+- 📦 Products, customers, sales orders, suppliers, and purchase orders
+- 📥 Partial and complete goods receipts with stock updates
+- 🏗 Modular Monolith, pragmatic DDD, and Clean Architecture
+- 🤖 Optional operations assistant with safe LLM summaries and guided search
+- 📊 Deterministic supply review for low-stock products and pending receipts
 
-* 🔐 Authentication and authorization
-* 👥 User roles and permissions
-* 🛍 Product and listing management
-* 🏪 Seller and customer workflows
-* 🔎 Product search and filtering
-* 📦 Order management
-* 🗄 Relational database design
-* 🔌 REST API development
-* 🐳 Dockerized development environment
-* 🧪 Testing
-* 🏗 Clean and maintainable architecture
-
-**Repository:** [commerce-platform](https://github.com/devCarlosMonsalve/commerce-platform))
+**Repository:** [commerce-platform](https://github.com/devCarlosMonsalve/commerce-platform)
 
 > Currently under active development.
-
 ---
 
 ## 💼 Professional Background
